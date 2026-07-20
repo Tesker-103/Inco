@@ -72,7 +72,7 @@ let me know in my discord
 
 You should join the official Titanium Network Discord for official links
 
-[![Titanium Network Discord](https://invidget.switchblade.xyz/unblock?theme=light)](https://discord.gg/unblock)
+[![Titanium Network Discord](https://invidget.switchblade.xyz/roblox?theme=light)](https://discord.gg/unblock)
 
 **Who is this repo for?**
 
