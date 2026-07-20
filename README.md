@@ -49,8 +49,7 @@ You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. [Read m
 ## Discord Server
 
 Press the join button to join the server:
-
-[![Join us on Discord](https://invidget.switchblade.xyz/985982201302769765?theme=light)](https://amethystnetwork-dev.github.io/discord/invite)
+[![Discord](https://img.shields.io/discord/1371555692661706793?style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/xGucmFjGVD)
 
 ## Overview
 
