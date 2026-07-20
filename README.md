@@ -71,9 +71,7 @@ let me know in my discord
 **How can I get official Incognito domains?**
 
 You should join the official Titanium Network Discord for official links
-
-[![Titanium Network Discord](https://invidget.switchblade.xyz/roblox?theme=light)](https://discord.gg/unblock)
-
+[![Join us on Discord](https://discord.com/api/guilds/1371555692661706793/embed.png?style=banner3)](https://discord.gg/xGucmFjGVD)
 **Who is this repo for?**
 
 This repo is for people that want an easy way to deploy Incognito to cloud hosting services. If you just want to use Incognito and not deploy it, I recommend you get an official Incognito domain (Check above for how to do so)
